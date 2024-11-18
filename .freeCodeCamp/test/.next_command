@@ -41,3 +41,4 @@ rm questionnaire.sh
 touch questionnaire.sh
 echoecho hello questionnaire >> questionnaire.sh
 echo echo hello questionnaire >> questionnaire.sh
+sh questionnaire.sh
