@@ -186,3 +186,4 @@ help
 man if
 help if
 nano countdown.sh
+./countdown.sh arg1
