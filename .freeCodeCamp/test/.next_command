@@ -281,3 +281,11 @@ chmod +x bingo.sh
 nano bingo.sh
 ./bingo.sh
 printenv
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+echo LANG
+LANG
+pwd
+echo lang
+lang
+echo $LANG
