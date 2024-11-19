@@ -337,3 +337,5 @@ help text
 help test
 nano ./bingo.sh
 nano ./bingo.sh
+./bingo.sh
+./bingo.sh
