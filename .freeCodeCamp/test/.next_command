@@ -417,3 +417,4 @@ __vsc_prompt_cmd_original
 help
 help function
 nano fortune.sh
+./fortune.sh
