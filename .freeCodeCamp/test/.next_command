@@ -178,3 +178,4 @@ echo
 more countdown.sh
 nano countdown.sh
 nano countdown.sh
+./countdown.sh
