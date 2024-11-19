@@ -427,3 +427,4 @@ nano fortune.sh
 help [[ expression ]]
 [[ hello == hello ]]
 [[ hello == world ]]
+[[ hello =~ el ]]
