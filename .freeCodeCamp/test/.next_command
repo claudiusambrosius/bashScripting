@@ -442,3 +442,4 @@ echo $VAR
 [[ test? =~ \?$ ]]
 nano fortune.sh
 ./fortune.sh
+nano fortune.sh
