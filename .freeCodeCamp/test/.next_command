@@ -117,3 +117,5 @@ ls --color=auto -l
 ./questionnaire.sh
 echo ls -l >> questionnaire.sh
 ./questionnaire.sh
+more questionnaire.sh
+nano questionnaire.sh
