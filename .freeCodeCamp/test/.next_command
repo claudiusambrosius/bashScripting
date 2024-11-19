@@ -219,3 +219,4 @@ help test
 help [[ expresssion ]]
 [[ -x countdown.sh && 5 -le 4 ]]
 [[ -x countdown.sh || 5 -le 4 ]]
+nano countdown.sh
