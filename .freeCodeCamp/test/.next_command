@@ -302,3 +302,4 @@ __vsc_prompt_cmd_original
 echo $I
 (( I++ ))
 echo $I
+help let
