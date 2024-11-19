@@ -341,3 +341,4 @@ nano ./bingo.sh
 ./bingo.sh
 touch fortune.sh
 chmod +x fortune.sh
+nano fortune.sh
