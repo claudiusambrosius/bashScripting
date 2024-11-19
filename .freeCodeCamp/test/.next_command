@@ -195,3 +195,6 @@ nano countdown.sh
 nano countdown.sh
 ./countdown.sh 5
 help
+__vsc_prompt_cmd_original
+help expression
+help [[ expression ]]
