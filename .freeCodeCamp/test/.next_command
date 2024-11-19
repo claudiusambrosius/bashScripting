@@ -200,3 +200,4 @@ help expression
 help [[ expression ]]
 help test
 nano countdown.sh
+./countdown.sh 5
