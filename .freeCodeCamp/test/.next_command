@@ -290,3 +290,4 @@ echo lang
 lang
 echo $LANG
 declare -p
+echo $RANDOM
