@@ -129,3 +129,5 @@ nano questionnaire.sh
 ./questionnaire.sh
 echo --help
 man echo
+man echo
+nano questionnaire.sh
