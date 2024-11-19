@@ -306,3 +306,4 @@ help let
 echo$?
 echo $?
 (( I+=10 ))
+echo $I
