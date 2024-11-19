@@ -424,3 +424,4 @@ help
 help until
 nano fortune.sh
 ./fortune.sh
+help [[ expression ]]
