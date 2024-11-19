@@ -401,3 +401,11 @@ nano fortune.sh
 ./fortune.sh
 nano fortune.sh
 ./fortune.sh
+nano fortune.sh
+./fortune.sh
+echo $RANDOM
+nano fortune.sh
+./fortune.sh
+nano fortune.sh
+more bingo.sh
+nano fortune.sh
