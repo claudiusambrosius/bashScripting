@@ -423,3 +423,4 @@ nano fortune.sh
 help
 help until
 nano fortune.sh
+./fortune.sh
