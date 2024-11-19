@@ -173,3 +173,8 @@ nano questionnaire.sh
 ./questionnaire.sh
 touch countdown.sh
 chmod +x countdown.sh
+more questionnaire.sh
+echo
+more countdown.sh
+nano countdown.sh
+nano countdown.sh
