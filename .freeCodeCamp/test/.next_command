@@ -303,3 +303,6 @@ echo $I
 (( I++ ))
 echo $I
 help let
+echo$?
+echo $?
+(( I+=10 ))
