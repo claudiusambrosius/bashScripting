@@ -198,3 +198,4 @@ help
 __vsc_prompt_cmd_original
 help expression
 help [[ expression ]]
+help test
