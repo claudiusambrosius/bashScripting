@@ -297,3 +297,5 @@ nano bingo.sh
 ./bingo.sh
 nano bingo.sh
 ./bingo.sh
+I=0
+__vsc_prompt_cmd_original
