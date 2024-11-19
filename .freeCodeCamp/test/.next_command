@@ -454,3 +454,4 @@ nano f
 nano five.sh
 ./five.sh
 nano five.sh
+clear
