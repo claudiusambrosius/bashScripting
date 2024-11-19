@@ -274,3 +274,6 @@ ls --color=auto
 ./countdown.sh
 nano countdown.sh
 ./countdown.sh 5
+nano countdown.sh
+./countdown.sh 5
+touch bingo.sh
