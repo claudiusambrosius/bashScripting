@@ -289,3 +289,4 @@ pwd
 echo lang
 lang
 echo $LANG
+declare -p
