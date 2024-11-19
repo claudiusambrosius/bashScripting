@@ -333,3 +333,6 @@ nano bingo.sh
 nano ./bingo.sh
 help let
 nano ./bingo.sh
+help text
+help test
+nano ./bingo.sh
