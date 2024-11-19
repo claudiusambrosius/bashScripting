@@ -194,3 +194,4 @@ nano countdown.sh
 ./countdown.sh 4
 nano countdown.sh
 ./countdown.sh 5
+help
