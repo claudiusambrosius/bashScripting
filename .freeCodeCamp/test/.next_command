@@ -273,3 +273,4 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 ls --color=auto
 ./countdown.sh
 nano countdown.sh
+./countdown.sh 5
