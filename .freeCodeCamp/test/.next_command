@@ -120,3 +120,4 @@ echo ls -l >> questionnaire.sh
 more questionnaire.sh
 nano questionnaire.sh
 nano questionnaire.sh
+./questionnaire.sh
