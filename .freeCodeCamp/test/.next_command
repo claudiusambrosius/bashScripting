@@ -201,3 +201,4 @@ help [[ expression ]]
 help test
 nano countdown.sh
 ./countdown.sh 5
+[[ 4 -le 5 ]]
