@@ -179,3 +179,4 @@ more countdown.sh
 nano countdown.sh
 nano countdown.sh
 ./countdown.sh
+./countdown.sh arg1 arg2 arg3
